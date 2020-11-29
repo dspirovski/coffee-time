@@ -18,23 +18,15 @@
     font-size: 3rem;
   }
 
-  body {
-    background-color: yellow;
-  }
-  
-
-  
   .home,
   .about,
   .menu,
   .news,
   .gallery,
-  .contacts  {
-  /*  background-image: url('/images/coffe.jpg');*/
+  .contacts  {  
     background-position: center;
     background-size: fill;
     background-repeat: no-repeat;
     color: #fff;
     font-size: 100px;
-  }
-  
+  } 
