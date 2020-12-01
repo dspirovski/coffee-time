@@ -1,7 +1,3 @@
-/*.coffeehouses p, .about p, .production p, .ecoEffects p, .drinks p, .healtnAndBenefits p, .coffeFacts p, .history p, .latte p {
-    padding: 20px;    
-}*/
-
 .coffeehouses h3, .about h3, .production h3, .ecoEffects h3, .drinks h3, .healtnAndBenefits h3, .coffeFacts h3, .history h3, .latte h3 {
     padding-left: 20px;    
 }
