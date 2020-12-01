@@ -6,6 +6,15 @@
     padding: 20px;
 }
 
- 
+ .text > #img {
+     width: 20%;
+     display: flex;
+ }
 
- 
+ .text>div:nth-child(odd) {
+    display: block;
+    margin-left: 40%;
+    margin-right: 60%;
+    width: 50%;
+   
+ }
