@@ -11,10 +11,13 @@
      display: flex;
  }
 
- .text>div:nth-child(odd) {
+ .text>div>img {
+     width: 20%;
+ }
+
+ .text>div>img:nth-last-child(1) {
     display: block;
-    margin-left: 40%;
-    margin-right: 60%;
-    width: 50%;
-   
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
  }
