@@ -13,16 +13,25 @@ function CoffeeFacts() {
             </div>
             <p>People working at the University of Cambridge knew the feeling of finding an empty coffee pot so well, so they invented the first ever webcam with the sole purpose of checking the status of the coffee pot.</p>
             <h1>#2</h1>
-            <img src="/images/fact2.png" alt="coffe fact #2" />
+            <div>
+                <img src="/images/fact2.png" alt="coffe fact #2" />
+            </div>
             <p>Finland consumes the most coffee in the world.</p>
             <h1>#3</h1>
-            <img src="/images/fact3.png" alt="coffe fact #3" />
+            <div>
+                <img src="/images/fact3.png" alt="coffe fact #3" />
+            </div>
             <p>Despite the fact that caffeine is a mild diuretic, you don't lose more fluid than you take in by drinking coffee, so it cannot dehydrate you.</p>
             <h1>#4</h1>
-            <img src="/images/fact4.png" alt="coffe fact #4" />
+            <div>
+                <img src="/images/fact4.png" alt="coffe fact #4" />
+            </div>
+
             <p>Coffee beans are only called 'beans' because of the resemblance - they’re actually berries.</p>
             <h1>#5</h1>
-            <img src="/images/fact5.png" alt="coffe fact #5" />
+            <div>
+                <img src="/images/fact5.png" alt="coffe fact #5" />
+            </div>
             <p>Before coffee became widely available, the popular breakfast drink was beer.</p>
             <Footer />
         </div>
